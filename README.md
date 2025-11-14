@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-css makes me cry, but i love php
+css makes me cry, but i love backend development
 
-peop
+i'm reachable at:
+✉️email: Tomas.Matthesius@gmail.com
+📞phone: 06 83356698 (or 31 6 instead of 06 if you're not calling locally)
 
 <!--
 **matthesius/matthesius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
