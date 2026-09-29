@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-css makes me cry, but i love backend development.  
+CSS makes me want to cry, but I love backend (PHP) development.  
 I'm learning to code at BIT-Academy in Purmerend, i may not know much but i'm sure that will change soon!   
 
-i'm reachable at:  
+I'm reachable at:  
 ✉️email: Tomas.Matthesius@gmail.com  
 📞phone: 06 83356698 (or 31 6 instead of 06 if you're not calling locally)  
 LinkedIn: https://www.linkedin.com/in/tomas-m-34109943a/
