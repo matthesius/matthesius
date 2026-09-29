@@ -5,7 +5,8 @@ I'm learning to code at BIT-Academy in Purmerend, i may not know much but i'm su
 
 i'm reachable at:  
 ✉️email: Tomas.Matthesius@gmail.com  
-📞phone: 06 83356698 (or 31 6 instead of 06 if you're not calling locally)  
+📞phone: 06 83356698 (or 31 6 instead of 06 if you're not calling locally)
+LinkedIn: https://www.linkedin.com/in/tomas-m-34109943a/
 
 <!--
 **matthesius/matthesius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
